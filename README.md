@@ -1,4 +1,4 @@
-#Test Files
+# Test Files
   - Representative directory files of 6MB and 10MB are provided in 'Test Files' folder.
 
 # Server and Peer IP and port details
